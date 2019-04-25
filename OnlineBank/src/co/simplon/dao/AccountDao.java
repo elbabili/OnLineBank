@@ -11,6 +11,8 @@ import co.simplon.entities.CompteCourant;
 import co.simplon.entities.CompteEpargne;
 import co.simplon.entities.Customer;
 
+/* ajouter les commentaires pour la javadoc */
+
 public class AccountDao extends Dao<Account> {
 	
 	public AccountDao(ServletContext context) {
