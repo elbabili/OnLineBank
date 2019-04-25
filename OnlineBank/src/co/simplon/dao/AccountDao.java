@@ -12,6 +12,7 @@ import co.simplon.entities.CompteEpargne;
 import co.simplon.entities.Customer;
 
 /* ajouter les commentaires pour la javadoc */
+/* réaliser les tests avec junit */
 
 public class AccountDao extends Dao<Account> {
 	
